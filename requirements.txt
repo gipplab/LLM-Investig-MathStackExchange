@@ -1,0 +1,7 @@
+torch
+transformers
+xmlr
+beatifulsoup4
+timer
+faiss
+tqdm
