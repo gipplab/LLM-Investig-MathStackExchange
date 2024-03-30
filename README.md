@@ -69,3 +69,8 @@ cp ./runs/ path-to/pya0/training-and-inference/runs/
 ../eval-arqmath3/task1/eval.sh
 ```
 
+## Reference
+
+[A. Satpute, N. Giessing, A. Greiner-Petter, M. Schubotz, O. Teschke, A. Aizawa, and B. Gipp, “Can LLMs Master Math? Investigating Large Language Models on Math Stack Exchange,” in Proceedings of 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24), Washington, USA, 2024.](https://gipplab.org/wp-content/papercite-data/pdf/satpute2024b.pdf)
+
+
